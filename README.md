@@ -5,4 +5,4 @@
 - CIW Advanced HTML5 & CSS3 Specialist
 ## FCC
 - Responsive Web Design
-- javaScript Algorithms and DAta Structures
+- javaScript Algorithms and Data Structures
